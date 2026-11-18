@@ -1,28 +1,10 @@
-<h1 align="center">Hi there, I'm Md. Mahathe Hasan Tuhin 👋</h1>
-<h3 align="center">Frontend Web Developer | Android App Developer | Cybersecurity Enthusiast 🔐</h3>
-
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahathe-hasan&label=Profile%20Views&color=0e75b6&style=flat" alt="mahathe-hasan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Md.+Mahathe+Hasan+Tuhin+%F0%9F%91%8B;Frontend+Web+Developer+(Level+3+Certified);Android+App+Developer+(Level+4+Certified);Cybersecurity+%26+Ethical+Hacking+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
----
-
-### 💫 About Me
-
-I am a **Computer Science & Technology (CST)** student and a certified **Frontend Web Developer** passionate about building clean, responsive, and user-centric web interfaces. Alongside my foundational experience in **Android Mobile App Development**, I am actively exploring **Ethical Hacking & Cybersecurity** to understand how modern web applications can be secured against vulnerabilities.
-
-- 🎓 **Certifications:** Web Design & Development for Freelancing (**Level 3**) & Android Mobile App Development (**Level 4**)
-- 🔭 **Currently Working On:** Responsive Frontend Web Projects & Modern UI/UX Implementations
-- 🌱 **Currently Learning:** Ethical Hacking, Network Security, and Web Application Penetration Testing
-- 👯 **Looking to Collaborate On:** Frontend Web Development, Open-Source Projects, and Security Tools
-- 💬 **Ask Me About:** `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `Responsive Design`, and `Android Basics`
-- ⚡ **Fun Fact:** I love building clean user interfaces and then figuring out how to break and secure them!
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
+<!-- Social Badges -->
+<p align="center">
   <a href="https://linkedin.com/in/md-mahathe-hasan-tuhin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -31,11 +13,24 @@ I am a **Computer Science & Technology (CST)** student and a certified **Fronten
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 💫 About Me
+
+I am a **Computer Science & Technology (CST)** student and a certified **Frontend Web Developer** dedicated to crafting clean, responsive, and high-performance web applications. Alongside foundational expertise in **Android Mobile App Development**, I am actively diving into **Ethical Hacking & Cybersecurity** to understand how modern digital systems can be hardened against vulnerabilities.
+
+- 🎓 **Certifications:** Web Design & Development for Freelancing (**Level 3**) & Android Mobile App Development (**Level 4**)
+- 🔭 **Currently Working On:** Responsive Web Applications & Modern Frontend Architectures
+- 🌱 **Currently Learning:** Ethical Hacking, Network Security & Web Application Penetration Testing
+- 👯 **Open to Collaborate On:** Frontend Web Development, UI/UX Implementations & Security Tools
+- 💬 **Ask Me About:** `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `Responsive Design`, and `Android Basics`
+- ⚡ **Fun Fact:** I love building sleek user interfaces and then figuring out how to break and secure them!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💻 Tech Stack & Tools
 
-**Frontend Development:**
+**🌐 Frontend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -43,7 +38,7 @@ I am a **Computer Science & Technology (CST)** student and a certified **Fronten
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-**Backend, Mobile & Database:**
+**⚙️ Backend, Mobile & Database**
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -52,7 +47,7 @@ I am a **Computer Science & Technology (CST)** student and a certified **Fronten
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Design & Version Control:**
+**🎨 Design & Version Control**
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
@@ -60,7 +55,7 @@ I am a **Computer Science & Technology (CST)** student and a certified **Fronten
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📊 GitHub Analytics
 
@@ -72,18 +67,23 @@ I am a **Computer Science & Technology (CST)** student and a certified **Fronten
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahathe-hasan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
+### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahathe-hasan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathe-hasan&theme=tokyo-night&area=true&hide_border=false" alt="Contribution Graph" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
+
+<!-- Bottom Profile Views & Animated Wave Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahathe-hasan&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
