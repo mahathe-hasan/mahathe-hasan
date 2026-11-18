@@ -36,57 +36,41 @@ I am a **Computer Science & Technology (CST)** student and a **Frontend Web Deve
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-**🌐 Frontend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend" />
+  </a>
 </p>
 
-**⚙️ Backend, Mobile & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<h3 align="center">⚙️ Backend & Database</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,nodejs,java,mysql&theme=dark" alt="Backend" />
+  </a>
 </p>
 
-**🎨 Design & Version Control**
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<h3 align="center">🧰 Design & Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark" alt="Tools" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+</p>
+
+<h3 align="center">🛡️ Learning Next</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,androidstudio&theme=dark" alt="Learning" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">🤝 Let's Connect</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mahathe-hasan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mahathe-hasan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahathe-hasan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathe-hasan&theme=tokyo-night&area=true&hide_border=false" alt="Contribution Graph" />
-</p>
-
----
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=0EA5E9&center=true&vCenter=true&width=500&lines=Open+to+collaborations+%F0%9F%A4%9D;Let's+build+something+amazing+together!" alt="Connect" />
 </p>
 
 <!-- Bottom Profile Views & Animated Wave Footer -->
